@@ -46,4 +46,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+
+h1{
+  color: #f4f4f4;
+  text-shadow: 1px 1px 1px black;
+  background-color: blue;
+  text-align: center;
+}
 </style>
